@@ -8,9 +8,9 @@ import static java.lang.Double.parseDouble;
 public class Lab2 {
 
     /**
-     * creates three points defined by args;
-     * prints Area of triangle based o these points or
-     * prints if two of them are equal
+     * создает три точки используя args;
+     * создает треугольник согласно заданным точкам
+     * если две точки одинаковые
      * @param args
      */
     public static void main(String[] args) {
